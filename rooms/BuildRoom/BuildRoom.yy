@@ -30,6 +30,7 @@
     {"name":"inst_7FFA6EFC","path":"rooms/BuildRoom/BuildRoom.yy",},
     {"name":"inst_39F87D73","path":"rooms/BuildRoom/BuildRoom.yy",},
     {"name":"inst_1B4E302E","path":"rooms/BuildRoom/BuildRoom.yy",},
+    {"name":"inst_74FF8519","path":"rooms/BuildRoom/BuildRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -61,6 +62,7 @@
         {"$GMRInstance":"v1","%Name":"inst_7FFA6EFC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7FFA6EFC","objectId":{"name":"HDD","path":"objects/HDD/HDD.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_39F87D73","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39F87D73","objectId":{"name":"HDD","path":"objects/HDD/HDD.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_1B4E302E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B4E302E","objectId":{"name":"HDD","path":"objects/HDD/HDD.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":352.0,},
+        {"$GMRInstance":"v1","%Name":"inst_74FF8519","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74FF8519","objectId":{"name":"ReturnButton","path":"objects/ReturnButton/ReturnButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":672.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"WoodTexture","path":"sprites/WoodTexture/WoodTexture.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
